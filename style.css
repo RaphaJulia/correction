@@ -1,0 +1,48 @@
+BODY {
+    background-color:grey;
+    font-size: 30px;
+}
+
+h1 {
+    background-color: grey; /*quand tu mets ça pour un texte ça va le surligner du coup tu n'as pas forcément besoin*/
+    color: black;
+    font-size: 25px;
+    text-align: center; /*pour mettre un texte au centre*/
+    font-weight: bold; /*pour mettre un texte en gras*/
+    text-decoration: underline; /*pour souligner un texte*/
+}
+
+h2 {
+    background-color:grey;
+    color:black;
+    font-size: 25px;
+}
+
+h3 {
+    background-color:grey;
+    color:black;
+    font-size: 25px;
+}
+
+h4 {
+    background-color:grey;
+    color:black;
+    font-size: 25px;
+}
+
+h5 {
+    background-color: grey;
+    color:black;
+    font-size: 25px;
+}
+
+h6 {
+    background-color:grey;
+    color:black;
+    font-size: 25px;
+}
+    
+p {
+    color: black;
+    font-size: 20px;
+}
